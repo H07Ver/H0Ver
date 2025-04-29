@@ -31,4 +31,4 @@ If this tool is used for illegal purposes or misused in any way, the owner of th
 You can clone this repository by using the following command:
 
 ```bash
-git clone https://github.com/ChaitanyaSai-Meka/H07Ver-malware.git
+git clone https://github.com/H07Ver/H0Ver.git
